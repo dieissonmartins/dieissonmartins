@@ -1,5 +1,7 @@
 ### Olá 👋
 
+[![Linkedin: dieisson-martins](https://img.shields.io/badge/-Dieisson%20Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dieisson-martins/)](https://www.linkedin.com/in/dieisson-martins/)
+
 ![Dieisson Martins](https://github-readme-stats.vercel.app/api?username=dieissonmartins&count_private=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dieissonmartins&layout=compact)
 <!--
