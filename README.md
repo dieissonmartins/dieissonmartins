@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ## 📫 Como me encontrar
 
 - 🔗 Tenho um site pessoal em [dieissonmartins.github.io](https://dieissonmartins.github.io/).
-- 📧 Você também pode me enviar um [email](mailto:dieisson.martins.santos@gmail.com)
+- 📧 Você também pode me enviar um [E-mail](mailto:dieisson.martins.santos@gmail.com).
