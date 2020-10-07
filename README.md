@@ -1,11 +1,11 @@
 ## Olá 👋
 
+[![Linkedin: dieisson-martins](https://img.shields.io/badge/-Dieisson%20Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dieisson-martins/)](https://www.linkedin.com/in/dieisson-martins/)
+
 ![Dieisson Martins](https://github-readme-stats.vercel.app/api?username=dieissonmartins&count_private=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dieissonmartins&layout=compact)
 <!--
 **Dieisson Martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Linkedin: dieisson-martins](https://img.shields.io/badge/-Dieisson%20Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dieisson-martins/)](https://www.linkedin.com/in/dieisson-martins/)
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="dieisson-martins"><a class="LI-simple-link" href='https://br.linkedin.com/in/dieisson-martins?trk=profile-badge'>Dieisson Martins</a></div>
 
 ## 📫 Como me encontrar
 
