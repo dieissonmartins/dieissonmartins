@@ -12,6 +12,6 @@ I'm an independent programmer who love to create practical projects in some way.
 
 - 🏢 I'm currently working at **MundoWap**
 - ⚙️ I use daily: `PHP`, `CakePHP`, `POO` and some other stuff
-- ⚙️ Sometimes: `Laravel`, ReactJS
+- ⚙️ Sometimes: `Laravel`, `ReactJS`
 
 <!-- 💵 Side Projects: [title](link), [title](link), -->
